@@ -8,7 +8,7 @@
 
 This is the Cheems we all love. The real Cheems has gone to heaven, but he will always be with us. This Cheems' love of fries is inspired by the work of Bilibili creator 清竹莫叶. May we all find our way in life.
 
-下载安装包 / Download: [Cheems-Codex-Pet-v1.0.0.zip](https://github.com/wxp3285/cheems-codex-pet/releases/download/v1.0.0/Cheems-Codex-Pet-v1.0.0.zip) · [Release 页面 / Release page](https://github.com/wxp3285/cheems-codex-pet/releases/tag/v1.0.0)
+下载安装包 / Download: [Cheems-Codex-Pet-v1.0.0.zip](https://github.com/xw1225/cheems-codex-pet/releases/download/v1.0.0/Cheems-Codex-Pet-v1.0.0.zip) · [Release 页面 / Release page](https://github.com/xw1225/cheems-codex-pet/releases/tag/v1.0.0)
 
 ## 动画预览 / Animation previews
 
@@ -22,11 +22,11 @@ This is the Cheems we all love. The real Cheems has gone to heaven, but he will 
 
 适用于支持自定义 v2 宠物的 Codex 桌面客户端。
 
-下载 [Cheems-Codex-Pet-v1.0.0.zip](https://github.com/wxp3285/cheems-codex-pet/releases/download/v1.0.0/Cheems-Codex-Pet-v1.0.0.zip)，将压缩包拖入 Codex 对话，输入：**“安装并加载压缩包中的 Cheems 宠物。”** 也可按以下步骤手动安装。
+下载 [Cheems-Codex-Pet-v1.0.0.zip](https://github.com/xw1225/cheems-codex-pet/releases/download/v1.0.0/Cheems-Codex-Pet-v1.0.0.zip)，将压缩包拖入 Codex 对话，输入：**“安装并加载压缩包中的 Cheems 宠物。”** 也可按以下步骤手动安装。
 
 #### 手动安装
 
-1. 下载 [Cheems-Codex-Pet-v1.0.0.zip](https://github.com/wxp3285/cheems-codex-pet/releases/download/v1.0.0/Cheems-Codex-Pet-v1.0.0.zip) 并解压，或下载仓库中的 `pet.json` 和 `cheems.png`。
+1. 下载 [Cheems-Codex-Pet-v1.0.0.zip](https://github.com/xw1225/cheems-codex-pet/releases/download/v1.0.0/Cheems-Codex-Pet-v1.0.0.zip) 并解压，或下载仓库中的 `pet.json` 和 `cheems.png`。
 2. 在 Codex 数据目录的 `pets` 文件夹下创建 `cheems` 文件夹，将 `pet.json` 和 `cheems.png` 放入其中。
 3. 打开客户端的宠物设置，刷新自定义宠物列表，选择 **Cheems — Codex 虚拟宠物 / Cheems — A Codex Pet**。
 
@@ -71,11 +71,11 @@ GIF 用于预览，实际宠物使用 `cheems.png`。
 
 Requires a Codex desktop client that supports custom v2 pets.
 
-Download [Cheems-Codex-Pet-v1.0.0.zip](https://github.com/wxp3285/cheems-codex-pet/releases/download/v1.0.0/Cheems-Codex-Pet-v1.0.0.zip), drag the ZIP into a Codex conversation, and enter: **“Install and load the Cheems pet from this ZIP.”** Alternatively, follow the manual installation steps below.
+Download [Cheems-Codex-Pet-v1.0.0.zip](https://github.com/xw1225/cheems-codex-pet/releases/download/v1.0.0/Cheems-Codex-Pet-v1.0.0.zip), drag the ZIP into a Codex conversation, and enter: **“Install and load the Cheems pet from this ZIP.”** Alternatively, follow the manual installation steps below.
 
 #### Manual installation
 
-1. Download and extract [Cheems-Codex-Pet-v1.0.0.zip](https://github.com/wxp3285/cheems-codex-pet/releases/download/v1.0.0/Cheems-Codex-Pet-v1.0.0.zip), or download `pet.json` and `cheems.png` from the repository.
+1. Download and extract [Cheems-Codex-Pet-v1.0.0.zip](https://github.com/xw1225/cheems-codex-pet/releases/download/v1.0.0/Cheems-Codex-Pet-v1.0.0.zip), or download `pet.json` and `cheems.png` from the repository.
 2. Create a `cheems` folder inside the `pets` folder in your Codex data directory. Place `pet.json` and `cheems.png` directly inside it.
 3. Open the client's pet settings, refresh the custom pet list, and select **Cheems — Codex 虚拟宠物 / Cheems — A Codex Pet**.
 
