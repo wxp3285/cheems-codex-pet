@@ -1,0 +1,7 @@
+{
+  "id": "cheems",
+  "displayName": "Cheems — Codex 虚拟宠物 / Cheems — A Codex Pet",
+  "description": "喜欢吃薯条的 Cheems，供 Codex 使用的动画虚拟宠物。 / A fries-loving Cheems animated companion for Codex.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "cheems.png"
+}
