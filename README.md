@@ -18,13 +18,9 @@ This is the Cheems we all love. The real Cheems has gone to heaven, but he will 
 
 ## 平台预览 / Platform previews
 
-### Dot 预览 / Dot preview
-
-<img src="docs/previews/dot.png" alt="Dot 中的 Cheems / Cheems in Dot" width="720">
-
-### iOS 推送预览 / iOS push notification preview
-
-<img src="docs/previews/ios-push.png" alt="iOS 推送中的 Cheems / Cheems in iOS push notifications" width="360">
+| Dot 预览 / Dot preview | iOS 推送预览 / iOS push notification preview |
+| --- | --- |
+| [<img src="docs/previews/dot.png" alt="Dot 中的 Cheems / Cheems in Dot" width="320">](docs/previews/dot.png) | [<img src="docs/previews/ios-push.png" alt="iOS 推送中的 Cheems / Cheems in iOS push notifications" height="300">](docs/previews/ios-push.png) |
 
 ## 中文
 
