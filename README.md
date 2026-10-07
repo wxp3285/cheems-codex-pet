@@ -1,8 +1,8 @@
-# Cheems — Codex 虚拟宠物 / Cheems — A Codex Pet
+# Cheems — Codex/Dot 虚拟宠物 / Cheems — Codex/Dot Pet
 
-**喜欢吃薯条的 Cheems，供 Codex 使用的动画虚拟宠物。**
+**喜欢吃薯条的 Cheems，供 Codex Mini/Dot 使用的动画虚拟宠物。**
 
-**A fries-loving Cheems animated companion for Codex.**
+**A fries-loving Cheems animated companion for Codex Mini/Dot.**
 
 这是大家都喜爱的 Cheems。现实中的 Cheems 已经去了天堂，但它会一直陪伴我们。Cheems 爱吃薯条的设定来自于 B 站 UP 主「清竹莫叶」的作品，希望大家的生命不再迷茫。
 
@@ -28,7 +28,7 @@ This is the Cheems we all love. The real Cheems has gone to heaven, but he will 
 
 1. 下载 [Cheems-Codex-Pet-v1.0.0.zip](https://github.com/xw1225/cheems-codex-pet/releases/download/v1.0.0/Cheems-Codex-Pet-v1.0.0.zip) 并解压，或下载仓库中的 `pet.json` 和 `cheems.png`。
 2. 在 Codex 数据目录的 `pets` 文件夹下创建 `cheems` 文件夹，将 `pet.json` 和 `cheems.png` 放入其中。
-3. 打开客户端的宠物设置，刷新自定义宠物列表，选择 **Cheems — Codex 虚拟宠物 / Cheems — A Codex Pet**。
+3. 打开客户端的宠物设置，刷新自定义宠物列表，选择 **Cheems — Codex/Dot 虚拟宠物 / Cheems — Codex/Dot Pet**。
 
 默认安装位置：
 
@@ -77,7 +77,7 @@ Download [Cheems-Codex-Pet-v1.0.0.zip](https://github.com/xw1225/cheems-codex-pe
 
 1. Download and extract [Cheems-Codex-Pet-v1.0.0.zip](https://github.com/xw1225/cheems-codex-pet/releases/download/v1.0.0/Cheems-Codex-Pet-v1.0.0.zip), or download `pet.json` and `cheems.png` from the repository.
 2. Create a `cheems` folder inside the `pets` folder in your Codex data directory. Place `pet.json` and `cheems.png` directly inside it.
-3. Open the client's pet settings, refresh the custom pet list, and select **Cheems — Codex 虚拟宠物 / Cheems — A Codex Pet**.
+3. Open the client's pet settings, refresh the custom pet list, and select **Cheems — Codex/Dot 虚拟宠物 / Cheems — Codex/Dot Pet**.
 
 Default locations:
 
