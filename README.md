@@ -16,6 +16,16 @@ This is the Cheems we all love. The real Cheems has gone to heaven, but he will 
 | --- | --- |
 | ![Cheems 日常吃薯条 / Cheems eating fries](preview-idle.gif) | ![Cheems 在电脑前吃薯条 / Cheems snacking at the laptop](preview-review.gif) |
 
+## 平台预览 / Platform previews
+
+### Dot 预览 / Dot preview
+
+<img src="docs/previews/dot.png" alt="Dot 中的 Cheems / Cheems in Dot" width="720">
+
+### iOS 推送预览 / iOS push notification preview
+
+<img src="docs/previews/ios-push.png" alt="iOS 推送中的 Cheems / Cheems in iOS push notifications" width="360">
+
 ## 中文
 
 ### 安装到 Codex
